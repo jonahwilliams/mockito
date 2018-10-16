@@ -15,7 +15,7 @@
 import 'dart:math';
 
 import 'package:mockito/mockito.dart';
-import 'package:test/test.dart';
+import 'package:test_core/test.dart';
 
 import 'iss.dart';
 

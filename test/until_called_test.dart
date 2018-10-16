@@ -15,7 +15,7 @@
 import 'dart:async';
 
 import 'package:mockito/mockito.dart';
-import 'package:test/test.dart';
+import 'package:test_core/test.dart';
 
 class _RealClass {
   _RealClass innerObj;

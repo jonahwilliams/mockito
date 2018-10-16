@@ -13,7 +13,7 @@
 // limitations under the License.
 
 import 'package:mockito/mockito.dart';
-import 'package:test/test.dart';
+import 'package:test_core/test.dart';
 
 import 'utils.dart';
 

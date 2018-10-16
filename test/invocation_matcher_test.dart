@@ -13,7 +13,7 @@
 // limitations under the License.
 
 import 'package:mockito/src/invocation_matcher.dart';
-import 'package:test/test.dart';
+import 'package:test_core/test.dart';
 
 Invocation lastInvocation;
 

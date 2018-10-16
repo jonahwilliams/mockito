@@ -18,7 +18,7 @@
 library mockito.test.deprecated_apis.capture_test;
 
 import 'package:mockito/mockito.dart';
-import 'package:test/test.dart';
+import 'package:test_core/test.dart';
 
 import '../utils.dart';
 

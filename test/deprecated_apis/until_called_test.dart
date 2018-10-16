@@ -20,7 +20,7 @@ library mockito.test.deprecated_apis.until_called_test;
 import 'dart:async';
 
 import 'package:mockito/mockito.dart';
-import 'package:test/test.dart';
+import 'package:test_core/test.dart';
 
 class _RealClass {
   _RealClass innerObj;
